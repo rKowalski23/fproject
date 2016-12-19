@@ -75,6 +75,7 @@ if(isset($_POST['btn-login']))
         </div>  
       	<br />
             <label>Don't have account yet? <a href="sign-up.php">Make one here!</a></label>
+        <br>
             <label>Raymond Kowalski</label>
       </form>
 

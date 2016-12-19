@@ -42,8 +42,6 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="http://www.codingcage.com/2015/11/ajax-login-script-with-jquery-php-mysql.html">Back to Article</a></li>
-            <li><a href="http://www.codingcage.com/search/label/jQuery">jQuery</a></li>
-            <li><a href="http://www.codingcage.com/search/label/PHP">PHP</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
             
@@ -74,10 +72,10 @@
         <a href="profile.php"><span class="glyphicon glyphicon-user"></span> profile</a></h1>
         <hr />
         
-        <p class="h4">Another Secure Profile Page</p> 
+        <p class="h4">This is your profile. You can use it to modify your information.</p> 
         
     <p class="blockquote-reverse" style="margin-top:200px;">
-    Programming Blog Featuring Tutorials on PHP, MySQL, Ajax, jQuery, Web Design and More...<br /><br />
+    Made by: Raymond Kowalski using coding cage tutorial.<br /><br />
     <a href="http://www.codingcage.com/2015/04/php-login-and-registration-script-with.html">tutorial link</a>
     </p>
     

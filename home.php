@@ -36,13 +36,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="http://www.codingcage.com">Coding Cage</a>
+          <a class="navbar-brand" href="http://www.codingcage.com">NJIT</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="http://www.codingcage.com/2015/04/php-login-and-registration-script-with.html">Back to Article</a></li>
-            <li><a href="http://www.codingcage.com/search/label/jQuery">jQuery</a></li>
-            <li><a href="http://www.codingcage.com/search/label/PHP">PHP</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
             
@@ -67,7 +65,7 @@
 	
     <div class="container">
     
-    	<label class="h5">welcome : <?php print($userRow['user_name']); ?></label>
+    	<label class="h5">Hello : <?php print($userRow['user_name']); ?>, this is your home page</label>
         <hr />
         
         <h1>
@@ -79,7 +77,7 @@
        
         
     <p class="blockquote-reverse" style="margin-top:200px;">
-    Programming Blog Featuring Tutorials on PHP, MySQL, Ajax, jQuery, Web Design and More...<br /><br />
+    Made by: Raymond Kowalski using coding cage tutorial.<br /><br />
     <a href="http://www.codingcage.com/2015/04/php-login-and-registration-script-with.html">tutorial link</a>
     </p>
     

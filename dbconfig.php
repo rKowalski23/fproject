@@ -1,8 +1,8 @@
 <?php
 class Database
 {   
-    private $host = "is218fp.clpjuot5eyx2.us-west-2.rds.amazonaws.com";
-    private $db_name = "rfk4db";
+    private $host = "sql1.njit.edu";
+    private $db_name = "rfk4";
     private $username = "rfk4";
     private $password = "christian7";
     public $conn;
